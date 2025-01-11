@@ -1,4 +1,6 @@
-# AniList CLI Project
+# AniTrak CLI Project
+
+ AniTrak: Unofficial CLI for AniList
 
 ## Index 📑
 
