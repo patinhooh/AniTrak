@@ -2,12 +2,12 @@
 
 ## Index 📑
 
-1. [Project Overview 🎡](#project-overview-🎡)
-   - [Focus Areas 🔍](#focus-areas-🔍)
-   - [Goals ⭐](#goals-⭐)
-   - [Plans 📝](#plans-📝)
+1. [Project Overview 🎡](#project-overview-)
+   - [Focus Areas 🔍](#focus-areas-)
+   - [Goals ⭐](#goals-)
+   - [Plans 📝](#plans-)
 
-2. [Getting Started 🚀](#getting-started-🚀)
+2. [Getting Started 🚀](#getting-started-)
 
 ## Project Overview 🎡
 
